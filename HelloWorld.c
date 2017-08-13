@@ -1,5 +1,6 @@
 #include <stdio.h>
 void show_information();
+void add_some_changes();
 int main()
 {
 	printf("HelloWorld!\n");
